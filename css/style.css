@@ -1,0 +1,132 @@
+body{
+   text-align: center;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+hr {
+    border-style: none;
+    /* border-top-style: dotted; */
+    border-color: #EAF6F6;
+    border-width: 15px;
+    margin: 10px auto;
+    width: 85%;
+    
+  }
+
+h1{
+    
+    position: absolute;
+    font-size: 7rem;
+    color: white;
+    font-family: serif;
+}
+
+.featured{
+    margin-top: 260px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:black;
+}
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+/* .topnav a.active {
+    background-color: #6B7AA1;
+    color: white;  
+} */
+
+.Griot{
+    margin-right: 840px;
+    font-size: 8px
+
+}
+
+.thumbnail{
+    height: 75%;
+}
+
+.info {
+    margin-top: 35px;
+   margin-left: 10%;
+   margin-right: 10%;
+   padding-top: 35px;
+   text-align: left;
+}
+
+.april{
+    
+    background-color: lightgray;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: solid 1px black;
+   
+}
+
+.read-more{
+    position: relative;
+    margin-top: 55px;
+    background-color: gold;
+    padding: 7px 10px;
+    color: white;
+    border-color: gray;
+
+}
+
+.tixinfo {
+    padding-left: 55px;
+}
+
+.colormeorange{
+    color:orangered;
+    margin-right: auto;
+}
+
+.fas{
+    font-size: 160%;
+}
+
+.far{
+    font-size: 160%;
+}
+
+.icon_text{
+    display:flex;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.location_etc{
+    width: 220px;
+}
+
+.lower{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 40px;
+    background-color: black;
+    color: white;
+}
+
+.bottext{
+    font-size: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.bot-box{
+    margin-top: 40px;
+}
